@@ -32,7 +32,7 @@ The game supports up to four players over a local network, with one host acting 
 - **Libraries:** 
   - [SDL2] for graphics, input and timing
   - [SDL_net] for UDP networking
-- **Build system:** `Makefile` (or describe how you build it)
+- **Build system:** `Makefile` 
 
 ---
 
